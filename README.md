@@ -1,16 +1,20 @@
-### Hi there 👋
+# :wave: Olá, eu sou o Luan! 	
 
-<!--
-**Luanfv/Luanfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luanfv)](https://github.com/luanfv)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanfv/)](https://www.linkedin.com/in/luanfv/)
 
-Here are some ideas to get you started:
+### :computer: Sobre mim
+Sou desenvolvedor front-end e mobile, com foco no ecossistema React/React-native. Comecei no mundo da programação em 2018 durante faculdade e acabei entrando no mercado de trabalho no ano seguinte, 2019, onde atualmente atuo como líder da equipe de front-end na BeMobile.
+<br />
+Acredito que o mais importante em um código é a simplicidade que ele deve ter na hora de sua leitura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :brain: Conhecimento
+- ReactJS
+- React-Native
+- JavaScript Moderno
+- JQuery
+
+### :bookmark_tabs: Estudando
+- NextJS
+- TypeScript
+- Arquitetura de software
