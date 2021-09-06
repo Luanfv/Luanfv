@@ -11,10 +11,6 @@ Acredito que a qualidade de um código deve ser medida através da sua simplicid
 ### :brain: Conhecimento
 - ReactJS
 - React-Native
+- NextJS
 - TypeScript
 - GitFlow
-- JQuery
-
-### :bookmark_tabs: Estudando
-- NextJS
-- Arquitetura de software
