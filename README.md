@@ -18,5 +18,3 @@ Acredito que a qualidade de um código deve ser medida através da sua simplicid
 ![Google_Play_Badge](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
 ![App_Storage_Badge](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)
 ![GIT_Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![Status](https://github-readme-stats.vercel.app/api?username=luanfv&theme=blue-green)
