@@ -6,8 +6,7 @@
 [![Steam_Badge](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/xuletador)
 
 ### :computer: Sobre mim
-Sou desenvolvedor front-end e mobile, com foco no ecossistema React/React-Native.
-Acredito que a qualidade de um código deve ser medida através da sua simplicidade, pois, um código deve ser tão fácil de ler quanto um livro.
+Sou desenvolvedor front-end e mobile, com foco no desenvolvimento mobile e no ecossistema React / React-Native. Acredito que a qualidade de um código deve ser medida por meio da capacidade de resolver problemas complexos de maneiras simples.
 
 
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
