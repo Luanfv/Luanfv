@@ -1,9 +1,9 @@
 # :wave: Olá, eu sou o Luan! 	
 
+[![Site_Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://luanfv-site.vercel.app/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luanfv)](https://github.com/luanfv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanfv/)](https://www.linkedin.com/in/luanfv/)
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
-[![Steam_Badge](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/xuletador)
 
 ### :computer: Sobre mim
 Sou desenvolvedor front-end e mobile, com foco no desenvolvimento mobile e no ecossistema React / React-Native. Acredito que a qualidade de um código deve ser medida por meio da capacidade de resolver problemas complexos de maneiras simples.
