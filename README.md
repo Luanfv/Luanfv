@@ -13,5 +13,4 @@ Sou desenvolvedor de software com foco em desenvolvimento mobile e no ecossistem
 ![TypeScript_Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React_Native_Badge](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React_Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NextJs_Badge](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![GIT_Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
