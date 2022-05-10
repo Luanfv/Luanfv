@@ -6,7 +6,7 @@
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
 
 ### :computer: Sobre mim
-Sou desenvolvedor de software com foco no desenvolvimento mobile e no ecossistema JavaScript/TypeScript. Acredito que a qualidade de um código deve ser medida por meio da capacidade de resolver problemas complexos de maneiras simples.
+Sou desenvolvedor de software com foco em desenvolvimento mobile e no ecossistema JavaScript/TypeScript. Acredito que a qualidade de um software deve ser medida através da capacidade de resolver problemas complexos de maneiras simples, pois, devemos desenvolver softwares para facilitar e agregar na vida das pessoas, independente se são usuários ou outros desenvolvedores do projeto.
 
 
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
