@@ -6,7 +6,7 @@
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
 
 ### :computer: Sobre mim
-Sou desenvolvedor de software com foco em desenvolvimento mobile e no ecossistema JavaScript/TypeScript. Acredito que a qualidade de um software deve ser medida através da capacidade de resolver problemas complexos de maneiras simples, pois, softwares possuem o objetivo de facilitar e agregar na vida das pessoas.
+Sou desenvolvedor de software com foco em **desenvolvimento mobile (React Native)** e no ecossistema **JavaScript/TypeScript**. Acredito que a qualidade de um software deve ser medida através da **capacidade de resolver problemas complexos de forma simplificada**.
 
 
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -14,3 +14,5 @@ Sou desenvolvedor de software com foco em desenvolvimento mobile e no ecossistem
 ![React_Native_Badge](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React_Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![GIT_Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=luanfv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues,contribs)
