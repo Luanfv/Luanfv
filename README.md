@@ -15,4 +15,4 @@ Sou desenvolvedor de software com foco em **desenvolvimento mobile (React Native
 ![React_Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![GIT_Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=luanfv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues,contribs)
+![Stats](https://github-readme-stats.vercel.app/api?username=luanfv&show_icons=true&theme=dracula)
