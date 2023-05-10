@@ -6,9 +6,11 @@
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
 
 ### 🙋 Sobre mim
-Sou **desenvolvedor JavaScript/TypeScript** com foco no **desenvolvimento mobile** com **React Native** e sempre que possível gosto de me aventurar no **desenvolvimento back-end** com **NodeJS**.
+Sou **desenvolvedor de software com foco nas tecnologias do ecossistema JavaScript/TypeScript**, utilizando **React Native** (mobile) e **NodeJS** (back-end) como as principais tecnologias. Gosto de realizar **automatizações através de testes e deploys automatizados**.
 
-Acredito que a **qualidade de um software deve ser medida através do equilíbrio entre a simplicidade e performance**, sem perder o objetivo do projeto.
+Estou sempre em busca de maneiras de aperfeiçoar meus conhecimentos para conseguir realizar a melhor entrega possível.
+
+Acredito que a qualidade de um software deve ser medida através do equilíbrio entre a simplicidade e a performance da aplicação.
 
 ### 💻 Tecnologias 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
