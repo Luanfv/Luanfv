@@ -6,15 +6,17 @@
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
 
 ### 🙋 Sobre mim
-Sou desenvolvedor de software dedicado ao ecossistema JavaScript/TypeScript, utilizando NodeJS com NestJS, além de React/React Native como minhas principais ferramentas tecnológicas. Tenho afinidade com a filosofia DevOps para concepção de software, viabilizando entregas contínuas, sem negligenciar a implementação de testes e implementações automatizadas, a fim de assegurar a qualidade e a perenidade do produto desenvolvido.
+Sou desenvolvedor de software desde 2019, com foco em resolver problemas com tecnologias. Atualmente utilizando o ecossistema JavaScript/TypeScript na plataforma NodeJS como minha principal ferramenta.
 
-Acredito que a apreciação da qualidade de um software deve ser efetuada por meio da harmonização entre sua simplicidade e sua eficiência.
+Acredito na cultura Ágil e DevOps para a construção de software, utilizando principais frameworks (SCRUM e KANBAN), com a implementação de CI/CD e testes automatizados para garantir um produto eficiente e seguro.
+
+No projeto em que atuo, busco alcançar uma harmonia entre a simplicidade e a eficiência do software.
 
 ### 💻 Tecnologias 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
