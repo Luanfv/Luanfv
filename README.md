@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanfv/)](https://www.linkedin.com/in/luanfv/)
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
 [![Site_Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://luanfv-site.vercel.app/)
-[![Google_Play_Badge](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=luanfv)
 
 ### 🙋 Sobre mim
 Sou desenvolvedor de software desde 2019, com foco em resolver problemas com tecnologias. Atualmente utilizando o ecossistema JavaScript/TypeScript na plataforma NodeJS como minha principal ferramenta.
