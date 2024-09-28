@@ -4,14 +4,14 @@
 [![Medium_Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@luanfv)
 [![Site_Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://luanfv-site.vercel.app/)
 
-### 🙋 Sobre mim
+### Sobre mim
 Sou desenvolvedor de software desde 2019, com foco em resolver problemas com tecnologias. Atualmente utilizando o ecossistema JavaScript/TypeScript na plataforma NodeJS como minha principal ferramenta.
 
 Acredito na cultura Ágil e DevOps para a construção de software, utilizando principais frameworks (SCRUM e KANBAN), com a implementação de CI/CD e testes automatizados para garantir um produto eficiente e seguro.
 
 Nos projetos em que atuo, busco alcançar uma harmonia entre a simplicidade e a eficiência do software.
 
-### 💻 Tecnologias 
+### Tecnologias 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
