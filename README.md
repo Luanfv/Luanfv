@@ -24,4 +24,5 @@ Nos projetos em que atuo, busco alcançar uma harmonia entre a simplicidade e a 
 ## Objetivo: Certificações
 - [x] [Microsoft Certified: Azure Fundamentals: AZ-900](https://learn.microsoft.com/pt-br/users/luanfv/credentials/fc19ede2ad4057b7?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [ ] [GitHub Foundations](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+- [ ] [Microsoft Certified: Azure Developer Associate: AZ-204](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/?practice-assessment-type=certification)
 - [ ] [GitHub Actions](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
