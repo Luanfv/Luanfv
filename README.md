@@ -22,7 +22,7 @@ Nos projetos em que atuo, busco alcançar uma harmonia entre a simplicidade e a 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
 
 ## Objetivo: Certificações
-- [x] [Microsoft Certified: Azure Fundamentals: AZ-900](https://learn.microsoft.com/pt-br/users/luanfv/credentials/fc19ede2ad4057b7?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- [ ] [GitHub Foundations](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
-- [ ] [Microsoft Certified: Azure Developer Associate: AZ-204](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/?practice-assessment-type=certification)
-- [ ] [GitHub Actions](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
+- [x] [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pt-br/users/luanfv/credentials/fc19ede2ad4057b7?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [x] [GitHub Certified: GitHub Foundations](https://www.credly.com/badges/5f55cbc4-f578-4674-97e8-d5cace952852)
+- [ ] [Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-developer/?practice-assessment-type=certification)
+- [ ] [GitHub Certified: GitHub Actions](https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5)
